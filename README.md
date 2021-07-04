@@ -86,4 +86,4 @@ Join on our SniperPhish discord community to engage with us!
 ## Donation
 If this project help you 'Phish', you can give me a cup of coffee :) 
 
-[![bitcoin](https://user-images.githubusercontent.com/15928266/88777414-c3104600-d1b9-11ea-9262-10bae6805779.png)](https://sniperphish.com/donate)
+[![bitcoin](https://user-images.githubusercontent.com/15928266/124384822-9c318c80-dd05-11eb-948c-f0b9e697b740.png)](https://sniperphish.com/donate)
